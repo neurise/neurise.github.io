@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on NeuRise</title>
-    <link>http://neurise.github.io/portfolio/</link>
+    <link>https://neurise.github.io/portfolio/</link>
     <description>Recent content in Portfolios on NeuRise</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2020 12:13:40 +0000</lastBuildDate><atom:link href="http://neurise.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Aug 2020 12:13:40 +0000</lastBuildDate><atom:link href="https://neurise.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Theme of a serie/block that is over</title>
-      <link>http://neurise.github.io/portfolio/previousserie/</link>
+      <link>https://neurise.github.io/portfolio/previousserie/</link>
       <pubDate>Wed, 12 Aug 2020 12:13:40 +0000</pubDate>
       
-      <guid>http://neurise.github.io/portfolio/previousserie/</guid>
+      <guid>https://neurise.github.io/portfolio/previousserie/</guid>
       <description>Just an archive really, where we keep the info about the talks.</description>
     </item>
     
     <item>
       <title>Theme of the future serie</title>
-      <link>http://neurise.github.io/portfolio/secondserie/</link>
+      <link>https://neurise.github.io/portfolio/secondserie/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://neurise.github.io/portfolio/secondserie/</guid>
+      <guid>https://neurise.github.io/portfolio/secondserie/</guid>
       <description>Longer description and saying we want speakers</description>
     </item>
     
     <item>
       <title>Neuroscience at the intersection of experiments and theory</title>
-      <link>http://neurise.github.io/portfolio/firstserie/</link>
+      <link>https://neurise.github.io/portfolio/firstserie/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://neurise.github.io/portfolio/firstserie/</guid>
+      <guid>https://neurise.github.io/portfolio/firstserie/</guid>
       <description>Longer description of the serie with details: speakers, talk titles, dates. Can put the poster here too</description>
     </item>
     
