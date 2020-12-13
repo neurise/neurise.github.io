@@ -6,32 +6,27 @@
     <description>Recent content on NeuRise</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2020 12:13:40 +0000</lastBuildDate><atom:link href="https://neurise.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://neurise.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Theme of a serie/block that is over</title>
-      <link>https://neurise.github.io/portfolio/previousserie/</link>
-      <pubDate>Wed, 12 Aug 2020 12:13:40 +0000</pubDate>
-      
-      <guid>https://neurise.github.io/portfolio/previousserie/</guid>
-      <description>Just an archive really, where we keep the info about the talks.</description>
-    </item>
-    
-    <item>
-      <title>Theme of the future serie</title>
+      <title>№ 2 - Interareal communication</title>
       <link>https://neurise.github.io/portfolio/secondserie/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://neurise.github.io/portfolio/secondserie/</guid>
-      <description>Longer description and saying we want speakers</description>
+      <description>Our second serie will revolve around Interareal communication and will happen in March and April. Want to give a talk? Stay tuned for the announcement of the opening of the application process!</description>
     </item>
     
     <item>
-      <title>Neuroscience at the intersection of experiments and theory</title>
+      <title>№ 1 - Neuroscience at the intersection of experiments and theory</title>
       <link>https://neurise.github.io/portfolio/firstserie/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://neurise.github.io/portfolio/firstserie/</guid>
-      <description>Longer description of the serie with details: speakers, talk titles, dates. Can put the poster here too</description>
+      <description>NeuRise is excited to announce its first speakers! We will be kicking off the seminar with our first serie, &amp;ldquo;Neuroscience at the intersection of experiment and theory&amp;rdquo;
+The dates are the following - talks titles and Zoom links to follow very soon!
+ 13th of January 2021, 5pm CET
+Arseny Finkelstein (title TBA) - Svododa lab, Janelia Farm
+Nicolas Meirhaeghe: &amp;ldquo;Neural population dynamics in the macaque frontal cortex reveals hallmarks of sensory predictive processing&amp;rdquo; - Jazayeri lab, MIT</description>
     </item>
     
   </channel>
