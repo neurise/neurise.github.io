@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>current on WWNeuRise</title>
+    <link>https://neurise.github.io/tags/current/</link>
+    <description>Recent content in current on WWNeuRise</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://neurise.github.io/tags/current/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Neuroscience at the intersection of experiments and theory</title>
+      <link>https://neurise.github.io/project/intersection-experimental-theory/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neurise.github.io/project/intersection-experimental-theory/</guid>
+      <description>&lt;p&gt;NeuRise is excited to announce its first speakers! We will be kicking off the seminar with our first block, &lt;strong&gt;&amp;ldquo;Neuroscience at the intersection of experiment and theory&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Talks will be streamed on &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/register&#34;&gt;Crowdcast&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;13th of January 2021, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nicolas Meirhaeghe: &amp;ldquo;Predictive processing in the macaque frontal cortex during time estimation&amp;rdquo; - Jazayeri lab, MIT. &lt;a href=&#34;https://neurise.github.io/docs/Meirhaeghe.pdf&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;27th of January 2021, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Federico Stella: &amp;ldquo;Global AND Scale-Free? Spontaneous cortical dynamics between functional networks and cortico-hippocampal communication&amp;rdquo; - Battaglia lab, Donders Institute. &lt;a href=&#34;https://neurise.github.io/docs/Stella.pdf&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Soledad Gonzalo Cogno: &amp;ldquo;Slow global population dynamics propagating through the medial entorhinal cortex &amp;quot;  - Moser lab, NTNU. &lt;a href=&#34;https://neurise.github.io/docs/GonzaloCogno.pdf&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;10th of February 2021, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Zoe Ashwood: “Mice alternate between discrete strategies during perceptual decision-making” - Pillow lab, Princeton University. &lt;a href=&#34;https://neurise.github.io/docs/Ashwood.pdf&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claire Hales: &amp;ldquo;Modelling affective biases in rodents: behavioural and computational approaches&amp;rdquo; - Robinson lab, University of Bristol. &lt;a href=&#34;https://neurise.github.io/docs/Hales.pdf&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;24th of February 2021, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Arseny Finkelstein: &amp;ldquo;Cortical information flow during behavior&amp;rdquo; - Svododa lab, Janelia HHMI&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

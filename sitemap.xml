@@ -3,39 +3,250 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://neurise.github.io/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/courses/example.1/example3/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/courses/example.2/example3/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/courses/example.1/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/courses/example.2/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/courses/example.2/example4/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/courses/example.1/example4/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/talk/coding/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/talk/qualitative/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/talk/synthesizing/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neurise.github.io/portfolio/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+    <loc>https://neurise.github.io/tags/current/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neurise.github.io/portfolio/2/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+    <loc>https://neurise.github.io/project/intersection-experimental-theory/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neurise.github.io/portfolio/1/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neurise.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://neurise.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://neurise.github.io/blog/</loc>
+    <loc>https://neurise.github.io/project/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://neurise.github.io/tags/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/project/inter-areal/</loc>
+    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/tags/upcoming/</loc>
+    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/project/naturalistic-behaviour/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/project/neuromodulation/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/project/predictive-processing/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/authors/admin/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/publication_types/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/authors/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/publication_types/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/tags/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/post/jupyter/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/post/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/post/snail/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/tags/academia/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/publication_types/2/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/authors/robert-ford/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/publication_types/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/authors/bill/</loc>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/authors/christina/</loc>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/authors/ellen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/authors/gily/</loc>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/authors/joram/</loc>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/authors/loreen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/authors/lucie/</loc>
+  </url>
+  
+  <url>
+    <loc>https://neurise.github.io/categories/</loc>
   </url>
   
 </urlset>

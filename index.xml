@@ -1,33 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NeuRise</title>
+    <title>WWNeuRise</title>
     <link>https://neurise.github.io/</link>
-    <description>Recent content on NeuRise</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content on WWNeuRise</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://neurise.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://neurise.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>№ 2 - Inter-areal communication</title>
-      <link>https://neurise.github.io/portfolio/2/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://neurise.github.io/talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://neurise.github.io/portfolio/2/</guid>
-      <description>The second block in February and March 2021 will revolve around Inter-areal communication. Want to give a talk? Apply to be a speaker by filling in this form!</description>
+      <guid>https://neurise.github.io/talk/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>№ 1 - Neuroscience at the intersection of experiments and theory</title>
-      <link>https://neurise.github.io/portfolio/1/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Projects</title>
+      <link>https://neurise.github.io/project/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://neurise.github.io/portfolio/1/</guid>
-      <description>NeuRise is excited to announce its first speakers! We will be kicking off the seminar with our first block, &amp;ldquo;Neuroscience at the intersection of experiment and theory&amp;rdquo;
-Talks will be streamed on Crowdcast
- 13th of January 2021, 5pm CET
-Nicolas Meirhaeghe: &amp;ldquo;Predictive processing in the macaque frontal cortex during time estimation&amp;rdquo; - Jazayeri lab, MIT. Abstract
- 27th of January 2021, 5pm CET
-Federico Stella: &amp;ldquo;Global AND Scale-Free? Spontaneous cortical dynamics between functional networks and cortico-hippocampal communication&amp;rdquo; - Battaglia lab, Donders Institute.</description>
+      <guid>https://neurise.github.io/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courses</title>
+      <link>https://neurise.github.io/courses/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://neurise.github.io/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://neurise.github.io/publication/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://neurise.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://neurise.github.io/post/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://neurise.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://neurise.github.io/slides/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://neurise.github.io/slides/</guid>
+      <description></description>
     </item>
     
   </channel>

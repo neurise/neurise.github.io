@@ -1,10 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on NeuRise</title>
+    <title>Tags on WWNeuRise</title>
     <link>https://neurise.github.io/tags/</link>
-    <description>Recent content in Tags on NeuRise</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://neurise.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Tags on WWNeuRise</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://neurise.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>current</title>
+      <link>https://neurise.github.io/tags/current/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neurise.github.io/tags/current/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>upcoming</title>
+      <link>https://neurise.github.io/tags/upcoming/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neurise.github.io/tags/upcoming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>https://neurise.github.io/tags/source-themes/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://neurise.github.io/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>academia</title>
+      <link>https://neurise.github.io/tags/academia/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://neurise.github.io/tags/academia/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
