@@ -7,19 +7,10 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://neurise.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://neurise.github.io/talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      
-      <guid>https://neurise.github.io/talk/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Projects</title>
@@ -31,39 +22,32 @@
     </item>
     
     <item>
-      <title>Courses</title>
-      <link>https://neurise.github.io/courses/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <title></title>
+      <link>https://neurise.github.io/speakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://neurise.github.io/courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://neurise.github.io/publication/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://neurise.github.io/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://neurise.github.io/post/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://neurise.github.io/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://neurise.github.io/slides/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://neurise.github.io/slides/</guid>
-      <description></description>
+      <guid>https://neurise.github.io/speakers/</guid>
+      <description>&lt;p&gt;Here you can find a list of all the speakers that have made WWNeuRise possible!&lt;/p&gt;
+&lt;h1 id=&#34;past-speakers&#34;&gt;Past speakers&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Neuroscience at the intersection of experiments and theory&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/nicognitive&#34;&gt;Nicolas Meirhaeghe&lt;/a&gt;: &amp;ldquo;Predictive processing in the macaque frontal cortex during time estimation&amp;rdquo; - Jazayeri lab, MIT. &lt;a href=&#34;https://neurise.github.io/docs/Meirhaeghe.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;em&gt;Replay not available&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Federico Stella: &amp;ldquo;Global AND Scale-Free? Spontaneous cortical dynamics between functional networks and cortico-hippocampal communication&amp;rdquo; - Battaglia lab, Donders Institute. &lt;a href=&#34;https://neurise.github.io/docs/Stella.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;em&gt;Replay not available&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/soledad_gcogno&#34;&gt;Soledad Gonzalo Cogno&lt;/a&gt;: &amp;ldquo;Slow global population dynamics propagating through the medial entorhinal cortex &amp;quot;  - Moser lab, NTNU. &lt;a href=&#34;https://neurise.github.io/docs/GonzaloCogno.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;em&gt;Replay not available&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/zoe_ashwood&#34;&gt;Zoe Ashwood&lt;/a&gt;: “Mice alternate between discrete strategies during perceptual decision-making” - Pillow lab, Princeton University. &lt;a href=&#34;https://neurise.github.io/docs/Ashwood.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claire Hales: &amp;ldquo;Modelling affective biases in rodents: behavioural and computational approaches&amp;rdquo; - Robinson lab, University of Bristol. &lt;a href=&#34;https://neurise.github.io/docs/Hales.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;upcoming-speakers&#34;&gt;Upcoming speakers&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/arseny_fink&#34;&gt;Arseny Finkelstein&lt;/a&gt;: &amp;ldquo;Cortical information flow during behavior&amp;rdquo; - Svododa lab, Janelia HHMI. &lt;a href=&#34;https://neurise.github.io/docs/Finkelstein.pdf&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Inter-areal communication&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/AleenaGarner&#34;&gt;Aleena Garner&lt;/a&gt;: &amp;ldquo;A Cortical Circuit for Audio-Visual Predictions&amp;rdquo; - Keller lab, Friedrich Miescher Institute. &lt;a href=&#34;https://neurise.github.io/docs/Garner.pdf&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kelly Clancy: &amp;ldquo;Understanding sensorimotor control at global and local scales&amp;rdquo; - Mrsic-Flogel lab, Sainsbury Wellcome Centre. &lt;a href=&#34;https://neurise.github.io/docs/Clancy.pdf&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/mattperich&#34;&gt;Matthew Perich&lt;/a&gt;: &amp;ldquo;Inferring brain-wide interactions using data-constrained recurrent neural network models&amp;rdquo; - Rajan lab, Mount Sinai.&lt;/p&gt;
+&lt;p&gt;Evren Gokcen &lt;em&gt;title TBA&lt;/em&gt; - Yu lab, Carnegie Mellon University.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/MoeNeuro&#34;&gt;Monique Smith&lt;/a&gt;: &amp;ldquo;Anterior Cingulate inputs to nucleus accumbens control the social transfer of pain and analgesia&amp;rdquo; - Malenka lab, Stanford University.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/kol_adi&#34;&gt;Adi Kol&lt;/a&gt;: &amp;ldquo;Astrocytes contribute to remote memory formation by modulating hippocampal-cortical communication during learning&amp;rdquo; - Goshen lab, Edmond &amp;amp; Lily Safra Center.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/davidwtingley&#34;&gt;David Tingley&lt;/a&gt;: &amp;ldquo;A metabolic function of the hippocampal sharp wave-ripples&amp;rdquo; - Buzsáki lab, NYU.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/JavadKAbadchi&#34;&gt;Javad Karimi Abadchi&lt;/a&gt; &lt;em&gt;title TBA&lt;/em&gt; - Mohajerani &amp;amp; McNaughton lab, University of Lethbridge.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
