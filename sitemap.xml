@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://neurise.github.io/tags/current/</loc>
+    <loc>https://neurise.github.io/project/naturalistic-behaviour/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neurise.github.io/project/naturalistic-behaviour/</loc>
+    <loc>https://neurise.github.io/tags/previous/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,17 +28,22 @@
   </url>
   
   <url>
+    <loc>https://neurise.github.io/tags/current/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/project/neuromodulation/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neurise.github.io/tags/upcoming/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+    <loc>https://neurise.github.io/project/predictive-processing/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neurise.github.io/project/predictive-processing/</loc>
+    <loc>https://neurise.github.io/tags/upcoming/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -49,11 +54,6 @@
   
   <url>
     <loc>https://neurise.github.io/project/intersection-experimental-theory/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neurise.github.io/tags/previous/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
   
