@@ -7,15 +7,40 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://neurise.github.io/tags/previous/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Neuromodulation in the brain</title>
+      <link>https://neurise.github.io/project/neuromodulation/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neurise.github.io/project/neuromodulation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://neurise.github.io/img/Block4.JPG&#34; alt=&#34;Block4&#34; title=&#34;Block4&#34;&gt;&lt;/p&gt;
+&lt;p&gt;See here the schedule for our 4th block!! We will update it with the talks title and the abstracts.&lt;/p&gt;
+&lt;p&gt;As usual, talks will be streamed on &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/register&#34;&gt;Crowdcast&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;30th of June, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/DrAxonHunter&#34;&gt;Lindsay Collins&lt;/a&gt;: &amp;ldquo;Effects of vagus nerve stimulation on arousal state and cortical excitation&amp;rdquo; -  McCormick lab, University of Oregon.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/Acetyl_Cri&#34;&gt;Cristina Colangelo&lt;/a&gt;: &amp;ldquo;An in-silico framework to study the cholinergic modulation of the neocortex&amp;rdquo; - EPFL, Blue Brain Project&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;14th of July, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Jasmine Pickford : &amp;ldquo;Cerebellar acetylcholine and motor behaviour&amp;rdquo; - Apps lab, University of Bristol&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/fluketc&#34;&gt;Luke Coddington&lt;/a&gt;: &amp;ldquo;A role for dopamine in value-free learning&amp;rdquo; - Dudman lab, HHMI Janelia.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;28th of July, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rohan Sharma: &amp;ldquo;Acetylcholine modulation of short-term plasticity is critical to reliable long-term plasticity in hippocampal synapses &amp;quot; - Suhita lab, Indian Institute of Science Education and Research Pune.&lt;/p&gt;
+&lt;p&gt;Inês Guerreiro: &amp;ldquo;Disinhibitory and neuromodulatory regulation of hippocampal synaptic plasticity&amp;rdquo; - Gutkin lab, Ecole Normale Superieure&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Neuroscience of Naturalistic behavior</title>
       <link>https://neurise.github.io/project/naturalistic-behaviour/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://neurise.github.io/project/naturalistic-behaviour/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://neurise.github.io/img/Block3.JPG&#34; alt=&#34;Block3&#34; title=&#34;Block3&#34;&gt;&lt;/p&gt;
@@ -41,35 +66,9 @@
     </item>
     
     <item>
-      <title>Neuroscience at the intersection of experiments and theory</title>
-      <link>https://neurise.github.io/project/intersection-experimental-theory/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://neurise.github.io/project/intersection-experimental-theory/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://neurise.github.io/img/Block1.png&#34; alt=&#34;Block1&#34; title=&#34;Block1&#34;&gt;&lt;/p&gt;
-&lt;p&gt;NeuRise is excited to announce its first speakers! We will be kicking off the seminar with our first block, &lt;strong&gt;&amp;ldquo;Neuroscience at the intersection of experiment and theory&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Talks will be streamed on &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/register&#34;&gt;Crowdcast&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;13th of January 2021, 5pm CET&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/nicognitive&#34;&gt;Nicolas Meirhaeghe&lt;/a&gt;: &amp;ldquo;Predictive processing in the macaque frontal cortex during time estimation&amp;rdquo; - Jazayeri lab, MIT. &lt;a href=&#34;https://neurise.github.io/docs/Meirhaeghe.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;em&gt;Replay not available&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;27th of January 2021, 5pm CET&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Federico Stella: &amp;ldquo;Global AND Scale-Free? Spontaneous cortical dynamics between functional networks and cortico-hippocampal communication&amp;rdquo; - Battaglia lab, Donders Institute. &lt;a href=&#34;https://neurise.github.io/docs/Stella.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;em&gt;Replay not available&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/soledad_gcogno&#34;&gt;Soledad Gonzalo Cogno&lt;/a&gt;: &amp;ldquo;Slow global population dynamics propagating through the medial entorhinal cortex &amp;quot;  - Moser lab, NTNU. &lt;a href=&#34;https://neurise.github.io/docs/GonzaloCogno.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;em&gt;Replay not available&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;10th of February 2021, 5pm CET&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/zoe_ashwood&#34;&gt;Zoe Ashwood&lt;/a&gt;: “Mice alternate between discrete strategies during perceptual decision-making” - Pillow lab, Princeton University. &lt;a href=&#34;https://neurise.github.io/docs/Ashwood.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/1&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Claire Hales: &amp;ldquo;Modelling affective biases in rodents: behavioural and computational approaches&amp;rdquo; - Robinson lab, University of Bristol. &lt;a href=&#34;https://neurise.github.io/docs/Hales.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/1&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;3rd of March 2021, 5pm CET&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/arseny_fink&#34;&gt;Arseny Finkelstein&lt;/a&gt;: &amp;ldquo;Mechanisms of cortical communication during decision-making&amp;rdquo; - Svododa lab, Janelia HHMI. &lt;a href=&#34;https://neurise.github.io/docs/Finkelstein.pdf&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Inter-Areal Communication</title>
       <link>https://neurise.github.io/project/inter-areal/</link>
-      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://neurise.github.io/project/inter-areal/</guid>
       <description>&lt;h2 id=&#34;block2imgblock2png-block2&#34;&gt;&lt;img src=&#34;https://neurise.github.io/img/Block2.png&#34; alt=&#34;Block2&#34; title=&#34;Block2&#34;&gt;&lt;/h2&gt;
@@ -91,6 +90,32 @@
 &lt;p&gt;&lt;strong&gt;21st of April 2021, 5pm CET&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://twitter.com/davidwtingley&#34;&gt;David Tingley&lt;/a&gt;: &amp;ldquo;A metabolic function of the hippocampal sharp wave-ripples&amp;rdquo; - Buzsáki lab, NYU.  &lt;a href=&#34;https://neurise.github.io/docs/Tingley.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/6&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://twitter.com/JavadKAbadchi&#34;&gt;Javad Karimi Abadchi&lt;/a&gt;: &amp;ldquo;Spatiotemporal patterns of neocortical activity around hippocampal sharp-wave ripples&amp;rdquo; - Mohajerani &amp;amp; McNaughton lab, University of Lethbridge.  &lt;a href=&#34;https://neurise.github.io/docs/KarimiAbadchi.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/6&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neuroscience at the intersection of experiments and theory</title>
+      <link>https://neurise.github.io/project/intersection-experimental-theory/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neurise.github.io/project/intersection-experimental-theory/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://neurise.github.io/img/Block1.png&#34; alt=&#34;Block1&#34; title=&#34;Block1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;NeuRise is excited to announce its first speakers! We will be kicking off the seminar with our first block, &lt;strong&gt;&amp;ldquo;Neuroscience at the intersection of experiment and theory&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Talks will be streamed on &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/register&#34;&gt;Crowdcast&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;13th of January 2021, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/nicognitive&#34;&gt;Nicolas Meirhaeghe&lt;/a&gt;: &amp;ldquo;Predictive processing in the macaque frontal cortex during time estimation&amp;rdquo; - Jazayeri lab, MIT. &lt;a href=&#34;https://neurise.github.io/docs/Meirhaeghe.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;em&gt;Replay not available&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;27th of January 2021, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Federico Stella: &amp;ldquo;Global AND Scale-Free? Spontaneous cortical dynamics between functional networks and cortico-hippocampal communication&amp;rdquo; - Battaglia lab, Donders Institute. &lt;a href=&#34;https://neurise.github.io/docs/Stella.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;em&gt;Replay not available&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/soledad_gcogno&#34;&gt;Soledad Gonzalo Cogno&lt;/a&gt;: &amp;ldquo;Slow global population dynamics propagating through the medial entorhinal cortex &amp;quot;  - Moser lab, NTNU. &lt;a href=&#34;https://neurise.github.io/docs/GonzaloCogno.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;em&gt;Replay not available&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;10th of February 2021, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/zoe_ashwood&#34;&gt;Zoe Ashwood&lt;/a&gt;: “Mice alternate between discrete strategies during perceptual decision-making” - Pillow lab, Princeton University. &lt;a href=&#34;https://neurise.github.io/docs/Ashwood.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/1&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claire Hales: &amp;ldquo;Modelling affective biases in rodents: behavioural and computational approaches&amp;rdquo; - Robinson lab, University of Bristol. &lt;a href=&#34;https://neurise.github.io/docs/Hales.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/1&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;3rd of March 2021, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/arseny_fink&#34;&gt;Arseny Finkelstein&lt;/a&gt;: &amp;ldquo;Mechanisms of cortical communication during decision-making&amp;rdquo; - Svododa lab, Janelia HHMI. &lt;a href=&#34;https://neurise.github.io/docs/Finkelstein.pdf&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
