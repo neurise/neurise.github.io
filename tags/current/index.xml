@@ -7,36 +7,36 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://neurise.github.io/tags/current/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Predictive processing</title>
-      <link>https://neurise.github.io/project/predictive-processing/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <title>Neuroscience of navigation</title>
+      <link>https://neurise.github.io/project/navigation/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://neurise.github.io/project/predictive-processing/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://neurise.github.io/img/Block5.png&#34; alt=&#34;Block5&#34; title=&#34;Block5&#34;&gt;&lt;/p&gt;
-&lt;p&gt;See here the schedule for our 5th block!! We will update it with the talks title and the abstracts.&lt;/p&gt;
+      <guid>https://neurise.github.io/project/navigation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://neurise.github.io/img/Block6.png&#34; alt=&#34;Block6&#34; title=&#34;Block6&#34;&gt;&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s already the last block of our first year in business! You can see the schedule below. We will update it with the talks title and the abstracts.&lt;/p&gt;
 &lt;p&gt;As usual, talks will be streamed on &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/register&#34;&gt;Crowdcast&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;8th of September, 5pm CET&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/cjahn_neuro&#34;&gt;Caroline Jahn&lt;/a&gt;: &amp;ldquo;Rule learning representation in the fronto-parietal network&amp;rdquo; - Buschman lab, Princeton University.  &lt;a href=&#34;https://neurise.github.io/docs/Jahn.pdf&#34;&gt;Abstract&lt;/a&gt;  | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/14&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/rbartolo_phd&#34;&gt;Ramon Bartolo&lt;/a&gt;: &amp;ldquo;The role of the primate prefrontal cortex in inferring the state of the world and predicting change&amp;rdquo; - Averbeck lab, National Institute of Mental Health. &lt;a href=&#34;https://neurise.github.io/docs/Bartolo.pdf&#34;&gt;Abstract&lt;/a&gt;  | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/14&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3rd of November, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/Erik_Hermansen1&#34;&gt;Erik Hermansen&lt;/a&gt;: &amp;ldquo;Space wrapped onto a grid cell torus&amp;rdquo; - Dunn lab, NTNU.&lt;/p&gt;
+&lt;p&gt;Sarthak Chandra: &amp;ldquo;Self-organized formation of discrete grid cell modules from smooth gradients&amp;rdquo; - Fiete lab, MIT.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;22nd of September, 5pm CET&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Nick Audette: &amp;ldquo;Expectation of self-generated sounds drives predictive processing in mouse auditory cortex&amp;rdquo; - Schneider lab, New York University. &lt;a href=&#34;https://neurise.github.io/docs/Audette.pdf&#34;&gt;Abstract&lt;/a&gt;  | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/15&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/colleenjgillon&#34;&gt;Colleen J. Gillon&lt;/a&gt;: &amp;ldquo;Learning from unexpected events in the neocortical microcircuit&amp;rdquo; - Richards lab, University of Toronto. &lt;a href=&#34;https://neurise.github.io/docs/Gillon.pdf&#34;&gt;Abstract&lt;/a&gt;  | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/15&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;17th of November, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/QasimEtal&#34;&gt;Salman Qasim&lt;/a&gt;: title tba - Gu lab, Icahn School of Medicine at Mount Sinai.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/jacobbellmund&#34;&gt;Jacob Bellmund&lt;/a&gt;: title tba - Doeller lab, Max Planck Institute for Human Cognitive and Brain Sciences.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;6th of October, 5pm CET&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/nuttidarungrat&#34;&gt;Nuttida Rungratsameetaweemana&lt;/a&gt;: &amp;ldquo;Neural dynamics of probabilistic information processing in humans and recurrent neural networks&amp;rdquo; - Sejnowski lab, Salk Institute &amp;amp; UCSD. &lt;a href=&#34;https://neurise.github.io/docs/Rungratsameetaweemana.pdf&#34;&gt;Abstract&lt;/a&gt;  | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/16&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/OdedBein&#34;&gt;Oded Bein&lt;/a&gt;: &amp;ldquo;Learning and updating structured knowledge&amp;rdquo; - Niv lab, Princeton University. &lt;a href=&#34;https://neurise.github.io/docs/Bein.pdf&#34;&gt;Abstract&lt;/a&gt;  | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/16&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1st of December, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/HannahPaynePhD&#34;&gt;Hannah Payne&lt;/a&gt;: title tba - Aronov lab, Columbia University&amp;rsquo;s Zuckerman Institute.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/nicktmrobinson&#34;&gt;Nick Robinson&lt;/a&gt;: title tba - Hausser lab, University College London.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;20th of October, 5pm CET&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Selina Solomon: &amp;ldquo;Limited Evidence for Sensory Prediction Error Responses in Visual Cortex of Macaques and Humans&amp;rdquo; - Kohn lab, Albert Einstein College of Medicine; Growth Intelligence. &lt;a href=&#34;https://neurise.github.io/docs/Solomon.pdf&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/Tomaso_85&#34;&gt;Tomaso Muzzu&lt;/a&gt;: &amp;ldquo;Feature selectivity can explain mismatch signals in mouse visual cortex&amp;rdquo; - Saleem lab, University College London. &lt;a href=&#34;https://neurise.github.io/docs/Muzzu.pdf&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8th of December, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/PShamash&#34;&gt;Philip Shamash&lt;/a&gt;: title tba - Branco lab, University College London.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/ak_gillespie&#34;&gt;Anna Gillespie&lt;/a&gt;: title tba - Frank lab, UC San Francisco.&lt;/p&gt;
 &lt;hr&gt;
 </description>
     </item>
