@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://neurise.github.io/tags/current/</loc>
+    <loc>https://neurise.github.io/project/navigation/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neurise.github.io/project/navigation/</loc>
+    <loc>https://neurise.github.io/tags/previous/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,11 +29,6 @@
   
   <url>
     <loc>https://neurise.github.io/project/predictive-processing/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neurise.github.io/tags/previous/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url>
   
