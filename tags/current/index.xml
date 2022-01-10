@@ -7,37 +7,36 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://neurise.github.io/tags/current/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Neuroscience of navigation</title>
-      <link>https://neurise.github.io/project/navigation/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <title>January-February 2022</title>
+      <link>https://neurise.github.io/project/jan-feb2022/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://neurise.github.io/project/navigation/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://neurise.github.io/img/Block6.png&#34; alt=&#34;Block6&#34; title=&#34;Block6&#34;&gt;&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;s already the last block of our first year in business! You can see the schedule below. We will update it with the talks title and the abstracts.&lt;/p&gt;
+      <guid>https://neurise.github.io/project/jan-feb2022/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://neurise.github.io/img/Block7.png&#34; alt=&#34;Block7&#34; title=&#34;Block7&#34;&gt;&lt;/p&gt;
+&lt;p&gt;See here the schedule for our 3rd block!! We will update it with the talks title and the abstracts.&lt;/p&gt;
 &lt;p&gt;As usual, talks will be streamed on &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/register&#34;&gt;Crowdcast&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;3rd of November, 5pm CET&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/Erik_Hermansen1&#34;&gt;Erik Hermansen&lt;/a&gt;: &amp;ldquo;Space wrapped onto a grid cell torus&amp;rdquo; - Dunn lab, NTNU. &lt;a href=&#34;https://neurise.github.io/docs/Hermansen.pdf&#34;&gt;Abstract&lt;/a&gt;  | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/18&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Sarthak Chandra: &amp;ldquo;Self-organized formation of discrete grid cell modules from smooth gradients&amp;rdquo; - Fiete lab, MIT. &lt;a href=&#34;https://neurise.github.io/docs/Chandra.pdf&#34;&gt;Abstract&lt;/a&gt;  | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/18&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12th of January, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/jacobbellmund&#34;&gt;Jacob Bellmund&lt;/a&gt;: &amp;ldquo;Deforming the metric of cognitive maps distorts memory&amp;rdquo; - Doeller lab, Max Planck Institute for Human Cognitive and Brain Sciences. &lt;a href=&#34;https://neurise.github.io/docs/Bellmund&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/Alex_Attinger&#34;&gt;Alexander Attinger&lt;/a&gt;: &amp;ldquo;Distance-tuned neurons drive specialized path integration calculations in medial entorhinal cortex&amp;rdquo; - Giocomo lab, Stanford University. &lt;a href=&#34;https://neurise.github.io/docs/Attinger&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;17th of November, 5pm CET&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/QasimEtal&#34;&gt;Salman Qasim&lt;/a&gt;: &amp;ldquo;Phase precession in the human hippocampus and entorhinal cortex&amp;rdquo; - Gu lab, Icahn School of Medicine at Mount Sinai. &lt;a href=&#34;https://neurise.github.io/docs/Qasim.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/19&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/jacobbellmund&#34;&gt;Jacob Bellmund&lt;/a&gt;: &amp;ldquo;Deforming the metric of cognitive maps distorts memory&amp;rdquo; - Doeller lab, Max Planck Institute for Human Cognitive and Brain Sciences. &lt;a href=&#34;https://neurise.github.io/docs/Bellmund.pdf&#34;&gt;Abstract&lt;/a&gt; | POSTPONED.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;26th of January, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Michael Reitman &lt;em&gt;title tba&lt;/em&gt; - Poskanzer Lab, UCSF&lt;/p&gt;
+&lt;p&gt;Katharina Merten &lt;em&gt;title tba&lt;/em&gt; - Nimmerjahn Lab, Salk Institute&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;1st of December, 5pm CET&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/HannahPaynePhD&#34;&gt;Hannah Payne&lt;/a&gt;: Neural representations of space in the hippocampus of a food-caching bird - Aronov lab, Columbia University&amp;rsquo;s Zuckerman Institute. &lt;a href=&#34;https://neurise.github.io/docs/Payne.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/20&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/nicktmrobinson&#34;&gt;Nick Robinson&lt;/a&gt;: &amp;ldquo;Targeted Activation of Hippocampal Place Cells Drives Memory-Guided Spatial Behaviour&amp;rdquo; - Häusser lab, University College London. &lt;a href=&#34;https://neurise.github.io/docs/Robinson.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/20&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9th of February, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/MunirGunesKutlu&#34;&gt;Munir Gunes Kutlu&lt;/a&gt; &lt;em&gt;title tba&lt;/em&gt; - Calipari Lab, Vanderbilt University&lt;/p&gt;
+&lt;p&gt;Olivia Swanson &lt;em&gt;title tba&lt;/em&gt; - Maffei Lab, Stony Brook University&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;8th of December, 5pm CET&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/PShamash&#34;&gt;Philip Shamash&lt;/a&gt;: &amp;ldquo;Mice identify subgoals locations through an action-driven mapping process&amp;rdquo; - Branco lab, University College London. &lt;a href=&#34;https://neurise.github.io/docs/Shamash.pdf&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/ak_gillespie&#34;&gt;Anna Gillespie&lt;/a&gt;: &amp;ldquo;Hippocampal replay reflects specific past experiences rather than a plan for subsequent choice&amp;rdquo; - Frank lab, UC San Francisco. &lt;a href=&#34;https://neurise.github.io/docs/Gillespie.pdf&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;23rd of February, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/chc1987&#34;&gt;Chaitanya Chintaluri&lt;/a&gt; &lt;em&gt;title tba&lt;/em&gt; - Vogels Lab, IST Austria&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/ZPadamsey&#34;&gt;Zahid Padamsey&lt;/a&gt; &lt;em&gt;title tba&lt;/em&gt; - Rochefort lab, University of Edinburgh&lt;/p&gt;
 </description>
     </item>
     
