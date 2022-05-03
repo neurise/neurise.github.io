@@ -2,25 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://neurise.github.io/project/apr-may2022/</loc>
+    <lastmod>2022-03-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://neurise.github.io/tags/current/</loc>
-    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://neurise.github.io/project/</loc>
+    <lastmod>2022-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://neurise.github.io/tags/</loc>
+    <lastmod>2022-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://neurise.github.io/</loc>
+    <lastmod>2022-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://neurise.github.io/project/mar-apr2022/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://neurise.github.io/project/</loc>
-    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://neurise.github.io/tags/</loc>
-    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://neurise.github.io/</loc>
+    <loc>https://neurise.github.io/tags/previous/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://neurise.github.io/project/jan-feb2022/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://neurise.github.io/tags/previous/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://neurise.github.io/project/navigation/</loc>

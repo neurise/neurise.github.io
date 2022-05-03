@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://neurise.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Projects</title>
       <link>https://neurise.github.io/project/</link>
-      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://neurise.github.io/project/</guid>
       <description></description>
@@ -30,12 +30,13 @@
       <description>&lt;p&gt;Here you can find a list of all the speakers that have made WWNeuRise possible!&lt;/p&gt;
 &lt;h1 id=&#34;upcoming-speakers&#34;&gt;Upcoming speakers&lt;/h1&gt;
 &lt;h3 id=&#34;__apr-may-2022__&#34;&gt;&lt;strong&gt;&lt;em&gt;Apr-May 2022&lt;/em&gt;&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/tatsuyatsuka0&#34;&gt;Tatsuya Tsukahara&lt;/a&gt;: &amp;ldquo;Transcriptional adaptation couples past experience and future sensory responses&amp;rdquo; - Datta Lab, Harvary Medical School. &lt;a href=&#34;https://neurise.github.io/docs/Tsukahara.pdf&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/bugeons&#34;&gt;Stephane Bugeon&lt;/a&gt;: &amp;ldquo;A transcriptomic axis predicts state modulation of cortical interneurons&amp;rdquo; - Harris/Carandini Lab, UCL. &lt;a href=&#34;https://neurise.github.io/docs/Bugeon.pdf&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://twitter.com/tatsuyatsuka0&#34;&gt;Megha Sehgal&lt;/a&gt;: &amp;ldquo;Co-allocation to overlapping dendritic branches in the retrosplenial cortex integrates memories across time&amp;rdquo; - Silva Lab, UCLA. &lt;a href=&#34;https://neurise.github.io/docs/Sehgal.pdf&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://twitter.com/bugeons&#34;&gt;Danil Tyulmankov&lt;/a&gt;: &amp;ldquo;Meta-learning synaptic plasticity and memory addressing for continual familiarity detection&amp;rdquo; - Abbott Lab, Columbia University. &lt;a href=&#34;https://neurise.github.io/docs/Tyulmankov.pdf&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;past-speakers&#34;&gt;Past speakers&lt;/h1&gt;
+&lt;h3 id=&#34;__apr-may-2022__-1&#34;&gt;&lt;strong&gt;&lt;em&gt;Apr-May 2022&lt;/em&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/tatsuyatsuka0&#34;&gt;Tatsuya Tsukahara&lt;/a&gt;: &amp;ldquo;Transcriptional adaptation couples past experience and future sensory responses&amp;rdquo; - Datta Lab, Harvary Medical School. &lt;a href=&#34;https://neurise.github.io/docs/Tsukahara.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/29&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/bugeons&#34;&gt;Stephane Bugeon&lt;/a&gt;: &amp;ldquo;A transcriptomic axis predicts state modulation of cortical interneurons&amp;rdquo; - Harris/Carandini Lab, UCL. &lt;a href=&#34;https://neurise.github.io/docs/Bugeon.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/29&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;__mar-apr-2022__&#34;&gt;&lt;strong&gt;&lt;em&gt;Mar-Apr 2022&lt;/em&gt;&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://twitter.com/mBeiran&#34;&gt;Manuel Beiran&lt;/a&gt;: &amp;ldquo;Parametric control of flexible timing through low-dimensional neural manifolds&amp;rdquo; - Center for Theoretical Neuroscience, Columbia University &amp;amp; Rajan Lab, Icahn Mount Sinai. &lt;a href=&#34;https://neurise.github.io/docs/Beiran.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/26&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://twitter.com/LLogiaco&#34;&gt;Laureline Logiaco&lt;/a&gt;: &amp;ldquo;Flexible motor sequence generation by thalamic control of cortical dynamics through low-rank connectivity perturbations&amp;rdquo; - Center for Theoretical Neuroscience, Columbia University. &lt;a href=&#34;https://neurise.github.io/docs/Logiaco.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/26&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;

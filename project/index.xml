@@ -7,10 +7,37 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://neurise.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>April-May 2022</title>
+      <link>https://neurise.github.io/project/apr-may2022/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://neurise.github.io/project/apr-may2022/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://neurise.github.io/img/Block9.png&#34; alt=&#34;Block9&#34; title=&#34;Block9&#34;&gt;&lt;/p&gt;
+&lt;p&gt;See here the schedule for our 3rd block of 2022!! We will update it with the talks title and the abstracts.&lt;/p&gt;
+&lt;p&gt;As usual, talks will be streamed on &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/register&#34;&gt;Crowdcast&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;27th of April, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/tatsuyatsuka0&#34;&gt;Tatsuya Tsukahara&lt;/a&gt;: &amp;ldquo;Transcriptional adaptation couples past experience and future sensory responses&amp;rdquo; - Datta Lab, Harvary Medical School. &lt;a href=&#34;https://neurise.github.io/docs/Tsukahara.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/29&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/bugeons&#34;&gt;Stephane Bugeon&lt;/a&gt;: &amp;ldquo;A transcriptomic axis predicts state modulation of cortical interneurons&amp;rdquo; - Harris/Carandini Lab, UCL. &lt;a href=&#34;https://neurise.github.io/docs/Bugeon.pdf&#34;&gt;Abstract&lt;/a&gt; | &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/29&#34;&gt;Replay&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;11th of May, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SPECIAL EVENT: A conversation about failure in science&lt;/p&gt;
+&lt;p&gt;Featuring talks and a panel discussion with:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/EdvardMoser&#34;&gt;Edvard Moser&lt;/a&gt; (NTNU, Norway)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/SaraASolla&#34;&gt;Sara Solla&lt;/a&gt; (Northwestern University, USA)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.weizmann.ac.il/brain-sciences/labs/ulanovsky/&#34;&gt;Nachum Ulanovsky&lt;/a&gt; (Weizmann Institute, Israel)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;18th of May, 5pm CET&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/tatsuyatsuka0&#34;&gt;Megha Sehgal&lt;/a&gt;: &amp;ldquo;Co-allocation to overlapping dendritic branches in the retrosplenial cortex integrates memories across time&amp;rdquo; - Silva Lab, UCLA. &lt;a href=&#34;https://neurise.github.io/docs/Sehgal.pdf&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/bugeons&#34;&gt;Danil Tyulmankov&lt;/a&gt;: &amp;ldquo;Meta-learning synaptic plasticity and memory addressing for continual familiarity detection&amp;rdquo; - Abbott Lab, Columbia University. &lt;a href=&#34;https://neurise.github.io/docs/Tyulmankov.pdf&#34;&gt;Abstract&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>March-April 2022</title>
@@ -19,7 +46,7 @@
       
       <guid>https://neurise.github.io/project/mar-apr2022/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://neurise.github.io/img/Block8.png&#34; alt=&#34;Block8&#34; title=&#34;Block8&#34;&gt;&lt;/p&gt;
-&lt;p&gt;See here the schedule for our 3rd block!! We will update it with the talks title and the abstracts.&lt;/p&gt;
+&lt;p&gt;See here the schedule for our 2nd block of 2022!! We will update it with the talks title and the abstracts.&lt;/p&gt;
 &lt;p&gt;As usual, talks will be streamed on &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/register&#34;&gt;Crowdcast&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;9th of March, 5pm CET&lt;/strong&gt;&lt;/p&gt;
@@ -43,7 +70,7 @@
       
       <guid>https://neurise.github.io/project/jan-feb2022/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://neurise.github.io/img/Block7.png&#34; alt=&#34;Block7&#34; title=&#34;Block7&#34;&gt;&lt;/p&gt;
-&lt;p&gt;See here the schedule for our 3rd block!! We will update it with the talks title and the abstracts.&lt;/p&gt;
+&lt;p&gt;See here the schedule for our first block of 2022!! We will update it with the talks title and the abstracts.&lt;/p&gt;
 &lt;p&gt;As usual, talks will be streamed on &lt;a href=&#34;https://www.crowdcast.io/e/wwneurise/register&#34;&gt;Crowdcast&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;12th of January, 5pm CET&lt;/strong&gt;&lt;/p&gt;
