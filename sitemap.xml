@@ -1,76 +1,132 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://neurise.github.io/project/apr-may2022/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/tags/current/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/project/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/tags/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/project/mar-apr2022/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/tags/previous/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/project/jan-feb2022/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/project/navigation/</loc>
     <lastmod>2021-06-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/project/predictive-processing/</loc>
     <lastmod>2021-05-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/project/neuromodulation/</loc>
     <lastmod>2021-04-04T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/project/naturalistic-behaviour/</loc>
     <lastmod>2021-03-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/project/inter-areal/</loc>
     <lastmod>2021-02-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/project/intersection-experimental-theory/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/authors/admin/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/authors/alon/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/authors/bill/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/authors/christina/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/authors/ellen/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/authors/gily/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/authors/joram/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/authors/loreen/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/authors/lucie/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/authors/wesley/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/speakers/</loc>
     <priority>0</priority>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/authors/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://neurise.github.io/publication_types/</loc>
   </url>
+  
 </urlset>
